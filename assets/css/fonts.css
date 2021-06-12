@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "SEGOEUI";
+    src: url("../fonts/SEGOEUI.woff") format("woff"), url("../fonts/SEGOEUI.woff2") format("woff2") ;
+}
+@font-face {
+    font-family: "Roboto-Italic";
+    src: url("../fonts/TAHOMA.woff") format("woff"), url("../fonts/TAHOMA.woff2") format("woff2") ;
+}
